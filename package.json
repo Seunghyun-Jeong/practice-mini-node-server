@@ -11,5 +11,14 @@
     "start": "node server/server-express.js"
   },
   "author": "Codestates",
-  "license": "ISC"
+  "license": "ISC",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seunghyun-Jeong/sprint-mini-node-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Seunghyun-Jeong/sprint-mini-node-server/issues"
+  },
+  "homepage": "https://github.com/Seunghyun-Jeong/sprint-mini-node-server#readme"
 }
